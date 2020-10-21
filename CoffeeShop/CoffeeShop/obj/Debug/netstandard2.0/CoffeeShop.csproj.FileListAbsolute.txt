@@ -13,3 +13,4 @@ C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.
 C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\ref\CoffeeShop.dll
 C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.pdb
 C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\DrinksDetailPage.xaml.g.cs
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\MainTabbedPage.xaml.g.cs
