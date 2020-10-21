@@ -1,0 +1,15 @@
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\netstandard2.0\CoffeeShop.deps.json
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\netstandard2.0\CoffeeShop.dll
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\netstandard2.0\ref\CoffeeShop.dll
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\netstandard2.0\CoffeeShop.pdb
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.csprojAssemblyReference.cache
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.AssemblyInfo.cs
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.dll
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\ref\CoffeeShop.dll
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\CoffeeShop.pdb
+C:\dev\mad\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\netstandard2.0\DrinksDetailPage.xaml.g.cs
