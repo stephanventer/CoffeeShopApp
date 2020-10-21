@@ -9,14 +9,13 @@
             <Image Source="coffeelogo.png" VerticalOptions="Center" HorizontalOptions="Center" />
         </Frame>
         <Frame BackgroundColor="#EAB13D" >
-            <Button  x:Name="drinksButton" Text="Coffee &amp; Drinks" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked="drinksButton_Clicked"/>
+            <Button x:Name="drinksButton" Text="Coffee &amp; Drinks" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked="drinksButton_Clicked"/>
         </Frame>
         <Frame BackgroundColor="#EAB13D">
-            <Button Text="Breakfast" TextColor="White" FontSize="28" BackgroundColor="Transparent"/>
+            <Button x:Name="breakfastButton" Text="Breakfast" TextColor="White" FontSize="28" BackgroundColor="Transparent"/>
         </Frame>
         <Frame BackgroundColor="#EAB13D">
-            <Button Text="Lunch" TextColor="White" FontSize="28" BackgroundColor="Transparent"/>
+            <Button x:Name="lunchButton" Text="Lunch" TextColor="White" FontSize="28" BackgroundColor="Transparent"/>
         </Frame>
     </StackLayout>
-
 </ContentPage>
